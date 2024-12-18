@@ -497,5 +497,27 @@ body {
   .menu-item {
     margin: 10px 0;
   }
+
+
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.container{
+    width: 100%;
+    height: 50vh;
+    background: #fff;
+    display: flex;
+    Align-items: centre;
+    Justify-content: center;
+}
+.swiper{
+Width:80%;
+Height: 100vh;
 }
 
+.swiper-slide img{
+    width:100%;
+}
